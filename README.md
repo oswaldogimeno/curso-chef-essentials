@@ -1,4 +1,4 @@
 # apache
 
-TODO: Enter the cookbook description here.
 
+instala http, crea index y lo arranca
